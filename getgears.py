@@ -3,7 +3,6 @@ import time
 import csv
 from itertools import cycle
 
-# Roblox Catalog API URL for searching items
 base_url = "https://catalog.roblox.com/v2/search/items/details"
 api_mullvad = "https://api.mullvad.net/www/relays/wireguard/"
 
@@ -24,10 +23,8 @@ except ValueError as e:
 
 proxies = cycle(proxiess)
 
-# Roblox creator ID (Roblox itself)
 roblox_creator_id = 1
 
-# Function to get gear items made by Roblox
 def get_roblox_made_gear():
     gear_items = []
     cursors = []
