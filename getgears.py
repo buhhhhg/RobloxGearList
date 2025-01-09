@@ -80,9 +80,9 @@ def get_roblox_made_gear():
             
             for item in items:
                 if list_in_list(items, gear_items):
-                    print("Duplicate list found. Possibly looping back - Breaking loop")
+                    print("Duplicate list found. Possibly looping back - Continuing")
                     LOOP = False
-                    break
+                    continue
                 gear_items.append(item)
 
             print(f"✅ Appended {len(items)} gear items")
