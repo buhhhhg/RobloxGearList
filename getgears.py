@@ -38,16 +38,20 @@ def get_roblox_made_gear():
         tries = 1
         limit = 10
         delay = 25
+
         while True:
             if tries >= limit:
                 print(f"Request limit exceeded ({limit}) - Breaking")
                 return None
+
             response = requests.get(current_url, proxies={'http': next(local_proxies)})
+
             if response.status_code == 429:
                 tries += 1
                 print(f"Received 429 status code. Retrying after {delay} seconds...")
                 time.sleep(delay)
                 continue
+
             return response
 
     def list_in_list(sub_list: list, main_list: list) -> bool:
@@ -83,6 +87,7 @@ def get_roblox_made_gear():
                     print("Duplicate list found. Possibly looping back - Continuing")
                     LOOP = False
                     continue
+    
                 gear_items.append(item)
 
             print(f"✅ Appended {len(items)} gear items")
@@ -97,6 +102,7 @@ def get_roblox_made_gear():
 roblox_gear_items = get_roblox_made_gear()
 data = [["id", "name"]]
 final = ""
+
 for gear in roblox_gear_items:
     data.append([gear['id'], gear['name']])
     final += f"ID: {gear['id']}, Name: {gear['name']}\n"
@@ -111,4 +117,4 @@ with open('data.txt', 'w', encoding='utf-8') as file:
     file.write(final)
 
 print('')
-print("🔥 Total gear items:", str(len(roblox_gear_items)))
+print("🐟 Total gears scraped:", str(len(roblox_gear_items)))
