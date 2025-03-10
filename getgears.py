@@ -23,12 +23,10 @@ except ValueError as e:
 
 proxies = cycle(proxiess)
 
-roblox_creator_id = 1
-
 def get_roblox_made_gear():
     gear_items = []
     cursors = []
-    url = f"{base_url}?CreatorTargetId={roblox_creator_id}&IncludeNotForSale=true&limit=120&AssetTypeIds=19"
+    url = f"{base_url}?IncludeNotForSale=true&limit=120&AssetTypeIds=19"
     local_proxies = proxies
 
     def make_request(current_url):
@@ -67,14 +65,14 @@ def get_roblox_made_gear():
             items = data.get('data', [])
             cursor = data.get('nextPageCursor', None)
 
-            if cursor in cursors:
-                print("Duplicate cursor found. Possibly looping back - Breaking loop")
-                LOOP = False
-                break
+            # if cursor in cursors:
+            #     print("Duplicate cursor found. Possibly looping back - Breaking loop")
+            #     LOOP = False
+            #     break
 
             if cursor:
                 cursors.append(cursor)
-                url = f"{base_url}?CreatorTargetId={roblox_creator_id}&IncludeNotForSale=true&limit=120&AssetTypeIds=19&cursor={cursor}"
+                url = f"{base_url}?IncludeNotForSale=true&limit=120&AssetTypeIds=19&cursor={cursor}"
 
             if not items:
                 break
@@ -114,4 +112,4 @@ with open('data.txt', 'w', encoding='utf-8') as file:
     file.write(final)
 
 print('')
-print("🐟 Total gears scraped:", str(len(roblox_gear_items)))
+print("Total gears scraped:", str(len(roblox_gear_items)))
