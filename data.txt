@@ -1,0 +1,995 @@
+ID: 11377306, Name: Silver Ninja Star of the Brilliant Light
+ID: 101106419, Name: Farmer's Revenge
+ID: 11419319, Name: Healing Potion
+ID: 12547976, Name: Space Sandwich
+ID: 11563251, Name: Fuse Bomb
+ID: 12187348, Name: Ronin Katana
+ID: 11450664, Name: Slateskin Potion
+ID: 11452821, Name: Claymore
+ID: 10472779, Name: Bloxy Cola
+ID: 121946387, Name: Bombo's Survival Knife
+ID: 168141301, Name: Ice Dragon Slayer
+ID: 113328094, Name: Lightblox Jar
+ID: 13745494, Name: Turkey Leg
+ID: 31839337, Name: Torch
+ID: 11999247, Name: Subspace Tripmine
+ID: 517827962, Name: Mr. Whiskers 
+ID: 22960388, Name: Chimp Friend
+ID: 127506105, Name: Korblox Mage Staff
+ID: 16979083, Name: Flashbang
+ID: 114020480, Name: Pretty Pretty Princess Sceptor
+ID: 16214845, Name: Cake
+ID: 15932306, Name: Starblox Latte
+ID: 107458429, Name: Throwing Spork
+ID: 12848902, Name: Teddy Bloxpin
+ID: 16726030, Name: Cheezburger
+ID: 46846246, Name: Panda Friend
+ID: 21754543, Name: Bamboo Katana
+ID: 1060280135, Name: Evil Knight Sword
+ID: 83021250, Name: The Fiery Sun
+ID: 19328185, Name: Snowball
+ID: 15177716, Name: Taco
+ID: 409745306, Name: Sword of the Epicredness
+ID: 430066424, Name: Bunch of Balloons
+ID: 96669682, Name: Danger Dagger
+ID: 10727852, Name: Witches Brew
+ID: 22787248, Name: Watermelon
+ID: 44115926, Name: Magical Umbrella
+ID: 46846115, Name: Ninja Jump Potion
+ID: 99119158, Name: Speed Coil
+ID: 2506347092, Name: Skeleton Foam Finger
+ID: 22596452, Name: Pepperoni Pizza
+ID: 111876831, Name: April Showers
+ID: 212296936, Name: Red Hyperlaser Gun
+ID: 103358098, Name: Tom's Beans
+ID: 16722267, Name: Moneybag
+ID: 477910063, Name: Deluxe Rainbow Magic Carpet
+ID: 16688968, Name: Gravity Coil
+ID: 225921000, Name: Rainbow Magic Carpet
+ID: 304721834, Name: Zombie Protest Sign
+ID: 147143863, Name: Darkest Arts Sword
+ID: 306971294, Name:  Bat Scythe
+ID: 95951330, Name: Skeleton Scythe
+ID: 24346755, Name: Frying Pan
+ID: 168140949, Name: Dragon's Flame Sword
+ID: 168143042, Name: Galactic Laser Gun
+ID: 11453385, Name: Katana
+ID: 163350265, Name: Ye Olde Fire Breath Potion
+ID: 359179463, Name: Year of the Monkey Lantern
+ID: 125859483, Name: NY Pizza Frisbee
+ID: 253519495, Name: Ultimate Drive Speedster
+ID: 39258329, Name: ROBAR eXtreme Chocolate Crunch
+ID: 467138029, Name: Robot Dance Gun
+ID: 162857357, Name: Portable Beach
+ID: 116040770, Name: Flashlight
+ID: 425121415, Name: School's Out Launcher
+ID: 2350122208, Name: Cobalt Interplanetary Light Sword
+ID: 22788134, Name: Elven Blade of Glory
+ID: 11956382, Name: Police Baton
+ID: 15470183, Name: Goblet
+ID: 29100449, Name: Banana Peel
+ID: 21392199, Name: Chocolate Milk
+ID: 295460702, Name: Super Slash Cat Claws
+ID: 255800146, Name: Ninja Whip
+ID: 13207169, Name: Stone Hammer
+ID: 42321801, Name: Hot Chocolate
+ID: 639345143, Name: Galactic Green Blaster
+ID: 57902859, Name: Ice Cream
+ID: 65545955, Name: Dance Grenade
+ID: 121925044, Name: Bombo's Bow and Arrow
+ID: 18482570, Name: Scepter of Pharoahs
+ID: 31314966, Name: US Military Top Secret Experimental Jetpack
+ID: 122278207, Name: Punk Wrist Cuff
+ID: 58574445, Name: ROBLOX Portable Game System (RPGS)
+ID: 73829214, Name: Atmoshocker
+ID: 172246669, Name: Paintball Pro
+ID: 65546284, Name: Shuriken of the Clan of the Crescent Moon
+ID: 124126871, Name: Newtrat's Tuskinator
+ID: 104642566, Name: Fake C4
+ID: 402305186, Name: Nonmagic Carpet
+ID: 189910805, Name: Snow Storm Cloud
+ID: 58574416, Name: Wild West Sarsaparilla
+ID: 12145515, Name: Wooden Sword
+ID: 286526176, Name: Adurite Katana
+ID: 15176169, Name: Caltrops
+ID: 18474459, Name: Paint Bucket
+ID: 928914739, Name: Black Iron Katana
+ID: 78730532, Name: Body Swap Potion
+ID: 30392263, Name: Decoy Deploy
+ID: 83704190, Name: Bluster Buster
+ID: 542755101, Name: 8-Bit Blaster
+ID: 257810065, Name: Attack Doge
+ID: 1258015943, Name: 2018 Noisemaker
+ID: 319656339, Name: Cuddly Cat
+ID: 52627419, Name: Basketball
+ID: 243790334, Name: Golden Steampunk Gloves
+ID: 30847779, Name: Magic Ninja
+ID: 14719505, Name: Cavalry Sabre
+ID: 83704169, Name: Towering Inferno Sword
+ID: 78367424, Name: Tiger Friend
+ID: 101078559, Name: Icy Arctic Fowl
+ID: 20721924, Name: Spartan Sword
+ID: 1402322831, Name: Sword of Heartsongs
+ID: 45754061, Name: Microphone
+ID: 14131602, Name: Pirate Hook
+ID: 57983532, Name: Volleyball
+ID: 489196923, Name: Xanwood Katana
+ID: 49491736, Name: Dracovin Spell Book
+ID: 154727251, Name: Super Speedy Purple Potion
+ID: 123234673, Name: Camping Machete
+ID: 236443047, Name: Regular Carpet
+ID: 46360920, Name: Mackerel
+ID: 170897263, Name: Mad Murderer Knife
+ID: 92142799, Name: Phoenix
+ID: 152233094, Name: The Drop
+ID: 107458461, Name: Noobcaik
+ID: 71037076, Name: Arabian Knight Scimitar
+ID: 12775410, Name: Double Bladed Hand Axe
+ID: 80576967, Name: Spray Paint
+ID: 2463674178, Name: Baby Nessie Mount
+ID: 21439965, Name: Foam Finger
+ID: 228588651, Name: Eggstermination Slingshot
+ID: 13477890, Name: Pirate Juice
+ID: 20064349, Name: 2010 Fireworks
+ID: 1016183873, Name: Golden Magic Carpet
+ID: 119101539, Name: Regeneration Coil
+ID: 88146505, Name: Call Me Cellphone
+ID: 176087640, Name: ROBLOX U Free Stuff Launcher
+ID: 33683368, Name: Bugle
+ID: 105189783, Name: Trollamon
+ID: 34399428, Name: Confetti Cannon
+ID: 170896941, Name: Foul Poison Fowl
+ID: 2605965785, Name: Ice Blue Rolling Hoverboard
+ID: 34398938, Name: Birthday Pinata
+ID: 101078350, Name: Holiday Ham
+ID: 29345958, Name: Vuvuzela
+ID: 10469910, Name: Orc Blade
+ID: 29100543, Name: Water Balloon
+ID: 45177979, Name: Sledge Hammer
+ID: 28664212, Name: Soccer Ball
+ID: 53623248, Name: Builderman's Hammer of Shimmering Light
+ID: 13206984, Name: Wooden Club
+ID: 118281609, Name: Squid Ink Bomb
+ID: 11373617, Name: Staff of the Woodlands
+ID: 22788972, Name: Smore
+ID: 32353654, Name: Moonwalk Dance Potion
+ID: 29939404, Name: Hot Dog 
+ID: 114687223, Name: Cinco de Mayo Piñata 
+ID: 28275809, Name: Scythe
+ID: 11885154, Name: Rolling Pin
+ID: 53130850, Name: Brighteyes's Sparkling Shillelagh 
+ID: 365674685, Name: Sword of the Epicblueness
+ID: 58574452, Name: Go Fish
+ID: 2620441860, Name: 2019 Spinning Noisemaker
+ID: 30649735, Name: Magnificent Magenta Paintball Gun
+ID: 101106464, Name: Battle Bottle
+ID: 31839411, Name: Fire Extinguisher
+ID: 21445765, Name: Crowbar
+ID: 15668963, Name: Geolocator
+ID: 49929724, Name: Knights of Redcliff: Battle Axe
+ID: 25974222, Name: Beach Ball
+ID: 19111894, Name: Wood Cabin Snowglobe
+ID: 27858062, Name: Dance Potion
+ID: 164207842, Name: Pool Noodle
+ID: 41457719, Name: Chocolate Gelt
+ID: 2103276507, Name: 8-Bit Restoration Fairy
+ID: 398675172, Name: Red Rolling Hoverboard
+ID: 32355966, Name: Winsome Wizard Wand
+ID: 31314931, Name: Epicsauce
+ID: 186868758, Name: Snowy Gravity Coil
+ID: 17237662, Name: Bloxiade
+ID: 1088051376, Name: Skeleton BattleAxe
+ID: 52625744, Name: Picnic Basket
+ID: 30393548, Name: Grapple Hook
+ID: 2350119937, Name: Blue Rolling Hoverboard
+ID: 25162389, Name: Classic Bucket
+ID: 44116233, Name: Megaphone
+ID: 97161295, Name: Gear Cloner
+ID: 22152195, Name: Heartbreak
+ID: 11999235, Name: Spec Alpha Biograft Energy Sword
+ID: 45201977, Name: First Aid Kit
+ID: 40493590, Name: Cherry Pie
+ID: 34398653, Name: ROBLOX Grab Bag
+ID: 192456288, Name: Black Tie Affair Gun
+ID: 170903610, Name: Intergalactic Sword
+ID: 456221232, Name: Party Blaster Paint Gun
+ID: 987032734, Name: Super Spy Drone
+ID: 28672001, Name: Goala Cola
+ID: 89487934, Name: Medusa Head
+ID: 746686384, Name: Winged Magical Staff
+ID: 18409191, Name: Spikey Stick of Civilized Negotiation
+ID: 24686580, Name: Double Cheezburger
+ID: 15731350, Name: Leland the Lolturtle
+ID: 125013799, Name: Battle Slingshot
+ID: 125013849, Name: Taxi
+ID: 461488745, Name: Flaming Orb of Divine Pain
+ID: 26421972, Name: Zombie Staff
+ID: 11419882, Name: Red Stratobloxxer
+ID: 81847570, Name: Military Axe
+ID: 130113146, Name: Hyperlaser Gun
+ID: 15179006, Name: Helen The Hiphipapotamus
+ID: 1149193097, Name: Valentine’s Throwing Stars
+ID: 10468915, Name: ROBLOX Classic Brigand's Sword
+ID: 27494652, Name: Green Balloon
+ID: 110789105, Name: RAIG Table
+ID: 48395736, Name: Knight's Elder Blade
+ID: 121385193, Name: Rubber Chicken Launcher
+ID: 124472052, Name: Riptide
+ID: 98411393, Name: R-Orb
+ID: 439988813, Name: Attack Ocelot
+ID: 1132887630, Name: 8-Bit Pumpkin Launcher
+ID: 2261167878, Name: Overseer Mage Staff
+ID: 25741198, Name: Hot Potato
+ID: 445151478, Name: 4th of July 2016 Fireworks
+ID: 1340206957, Name: Black Hole Sword
+ID: 1074742019, Name: Mr. Wing
+ID: 264990158, Name: Gold Eagle Sword
+ID: 118281529, Name: Harpoon
+ID: 1074738432, Name: Gigantic Bat Wings
+ID: 160198658, Name: Midnight Sword
+ID: 21351465, Name: Maraca
+ID: 928913996, Name: Adurite Guitar of Rock Excellence
+ID: 115377964, Name: Laser Finger Pointers
+ID: 1033136271, Name: Interplanetary Light Sword
+ID: 21440056, Name: Protest Sign: Pro Fake Mustache
+ID: 450565762, Name: Attack Raccoon
+ID: 283754518, Name: Rock Thunder
+ID: 97885572, Name: Emergency Rations
+ID: 24791472, Name: Chocolate Bunny
+ID: 21440120, Name: Protest Sign: Save the Zombies
+ID: 12890798, Name: Teddy Trap
+ID: 55301897, Name: Baseball Bat
+ID: 20642023, Name: Quick Potion
+ID: 33382537, Name: Slingshot
+ID: 102705386, Name: Earth's Might Staff
+ID: 928807470, Name: Blue Fidget Spinner
+ID: 169669671, Name: Stravant's Lightning
+ID: 21392417, Name: Tambourine
+ID: 26017478, Name: Blue Bloxxers Paintball Gun
+ID: 1215515248, Name: Frozen Throwing Knives
+ID: 10831489, Name: Fencing Foil
+ID: 90718350, Name: Bear Mine Gun
+ID: 35684857, Name: Fortune Cookie
+ID: 191261808, Name: Dark Pegasus
+ID: 1760404984, Name: Teapot Launcher
+ID: 835779898, Name: Rockin' Feline Guitar
+ID: 10758456, Name: Bluesteel Claw
+ID: 86494893, Name: Darksteel Katana of Ancient Illuminators
+ID: 74385386, Name: Razevenge
+ID: 176219131, Name: ROBLOX U Foam Finger
+ID: 10910681, Name: Pirate Cutlass
+ID: 150366274, Name: Dual Gravity Coil
+ID: 445150567, Name: Lincoln's Golden Rail Splitter
+ID: 176087556, Name: Leopard Print Balloon
+ID: 101110605, Name: Gravity Disruptor
+ID: 243007180, Name: HEX Spitter
+ID: 147937284, Name: Disco Ball
+ID: 96669697, Name: Giant Blade
+ID: 22152234, Name: Clawknife
+ID: 88885506, Name: Military Spy Satellite
+ID: 163348987, Name: Cymbals
+ID: 236442380, Name: Gear Recycler
+ID: 33867016, Name: Hand Cannon
+ID: 2620521684, Name: Fireball Spell
+ID: 268533852, Name: Magical Unicorn
+ID: 33866728, Name: Drum Kit
+ID: 172248941, Name: Penguin Power Pet
+ID: 146047188, Name: Presidential Vampire Slaying Ax
+ID: 2620420065, Name: Snow Wolf Companion
+ID: 1241586091, Name: Spell Book of Ice Cold Revenge
+ID: 99119198, Name: Face Melting Guitar
+ID: 78005009, Name: Blackhole Ray Gun
+ID: 26014536, Name: Red Rebels Paintball Gun
+ID: 34901961, Name: Gravity Gun
+ID: 87361806, Name: Meteor Staff
+ID: 18426536, Name: Apple Pie
+ID: 95951291, Name: Skeleton King's Sword
+ID: 336371164, Name: Retro Shrink Ray
+ID: 81330766, Name: Time Watch
+ID: 261439002, Name: Winters Greatsword
+ID: 522587921, Name: Zombie STOPing Axe
+ID: 150363993, Name: Spring Sunshine
+ID: 1320966419, Name: Dragon Warrior Spear
+ID: 228588531, Name: Staff of Eggstra Large Eggs
+ID: 187840979, Name: Penguin Horde  Attack
+ID: 57229313, Name: Bug Juice
+ID: 1215506016, Name: Frozen Halberd
+ID: 22788102, Name: Math Homework
+ID: 117498793, Name: Poisonous Butterfly
+ID: 82357123, Name: Laser Electrocutor
+ID: 193771176, Name: Rockin' Pink Guitar
+ID: 169602388, Name:  Intern Racing Chair 2014
+ID: 99797327, Name: Hanukkah Menorah
+ID: 88143166, Name: Vaulting Pole
+ID: 189910262, Name: Robloxsai Bike
+ID: 542184488, Name: 8-Bit Duck Friend
+ID: 147143848, Name: Flaming Mace
+ID: 233633874, Name: Worldwide Stunna
+ID: 621090617, Name: Robot Rock Guitar
+ID: 1380774367, Name: Steampunk Hoverboard
+ID: 1609498185, Name: Red Laser Scythe
+ID: 330296114, Name: Christmas Tree Launcher
+ID: 1402452608, Name: Tiny Elephant
+ID: 218631128, Name: Green Laser Scythe
+ID: 29532138, Name: Bloxxy Radar
+ID: 129471151, Name: ROBLOX Invisicar 
+ID: 728207067, Name: Bouquet of Pain Throwing Stars
+ID: 27171403, Name: Battle Axe
+ID: 2568200796, Name: Turkey Mount
+ID: 17527923, Name: Pumpkin Bucket
+ID: 1829078563, Name: Sun Slayer Sword
+ID: 62350856, Name: Ghostfire Dagger
+ID: 283756680, Name: Ultraviolet Blaster
+ID: 31314849, Name: Barrel O' Monkeys
+ID: 96669687, Name: Trusty Blade
+ID: 16987194, Name: Cursed Mummy Friend
+ID: 15397778, Name: First Aid Kit
+ID: 163351579, Name: Killer Bee Launcher
+ID: 298085284, Name: Personal Rocketship
+ID: 88143093, Name: Pigs Boson Collider
+ID: 283755431, Name: Dueling Piano
+ID: 183355892, Name: Double Fire Laser Gun
+ID: 112591865, Name: Deluxe Beach Ball
+ID: 161282711, Name: Patriot's Monster Truck
+ID: 336370943, Name: Laser Gun of Tomorrow
+ID: 54130537, Name: Seashell Snare
+ID: 103359953, Name: Shadow Sword
+ID: 163352376, Name: Personal UFO
+ID: 101079008, Name: Fancy Skateboard
+ID: 44561400, Name: Shrunken Head
+ID: 420161128, Name: Pogo Stick
+ID: 346685995, Name: Alpaca Mount
+ID: 19111883, Name: Wooden Dreidel
+ID: 60888225, Name: DarkAge Ninjas: Ninja Kitteh
+ID: 498752764, Name: Flying Carpet of Books
+ID: 14864611, Name: Compass
+ID: 76170545, Name: Race the Sunset
+ID: 18462637, Name: Staff of the Winds
+ID: 73232786, Name: Flaming Dragon Slayer Bo Staff
+ID: 19703476, Name: Yellow Snowball
+ID: 72644644, Name: Quantum Entangler
+ID: 236438668, Name: Crossbow of the Sea
+ID: 183355817, Name: Speedy Shoes
+ID: 117498775, Name: Beehive
+ID: 168140813, Name: Flaming Halberd
+ID: 33866846, Name: Gravitational Radiation Hammer v0.01
+ID: 46360870, Name: Ice Axe
+ID: 123234545, Name: Camping Lantern
+ID: 1981813154, Name: Sword of Starlight
+ID: 68603151, Name: All-Seeing Sentry
+ID: 284135286, Name: Robloxian Clone
+ID: 11719016, Name: Blow Dryer
+ID: 1469850646, Name: Director's Clapboard
+ID: 610133821, Name: Flying Dragon 
+ID: 88885539, Name: Airstrike
+ID: 60888200, Name: DarkAge Ninjas: SunFire Scroll
+ID: 16986805, Name: Pumpkin Pi
+ID: 27133214, Name: Binoculray
+ID: 928806888, Name: Red Fidget Spinner
+ID: 18481407, Name: Bronze Kopesh
+ID: 380210977, Name: Leprachaun Potion
+ID: 26777410, Name: Pwny
+ID: 46360821, Name: Penguin Potion
+ID: 2569022418, Name: Twin Space Pistols
+ID: 168140516, Name: Breath of Fire
+ID: 211944997, Name: Donut Delivery Moped
+ID: 170903216, Name: Pizza Delivery Vehicle
+ID: 25158998, Name: ROBLOX Frisbee
+ID: 236441643, Name: Earth Protection Orb
+ID: 12902404, Name: Bundle of TNT
+ID: 21802000, Name: Sword of Nefertiti
+ID: 81847365, Name: Potato Cannon
+ID: 94333296, Name: Nightfall Elixir
+ID: 56561570, Name: Confusion's Cauldron
+ID: 49491716, Name: Princess Mischief's Wand
+ID: 129471121, Name: Trololo Cape of Invisibility
+ID: 174752245, Name: Silver Crossbow
+ID: 95258660, Name: Explosive Spy Pen
+ID: 10884288, Name: War Rocks
+ID: 24396804, Name: CocoWHAAA?
+ID: 271017937, Name: Radiant Seahorse 
+ID: 3459922232, Name: 8-Bit Wizarding Staff
+ID: 178076989, Name: Exploding Heart
+ID: 243778818, Name: Fallen Artemis Sword & Shield
+ID: 206136532, Name: Giant Dinosaur Feet
+ID: 12909278, Name: Banjo
+ID: 11999279, Name: XLS Mark II Pulse Laser Pistol
+ID: 128162713, Name: Emerald Knights of the Seventh Sanctum Staff
+ID: 163354553, Name: Bluesteel Midas Hand
+ID: 304720206, Name: Zombie Penguin Attack Horde
+ID: 125859385, Name: Big Apple Launcher
+ID: 121385262, Name: Zombie Dog
+ID: 10510024, Name: Board With a Nail in It
+ID: 503957396, Name: Deluxe Coil Gun
+ID: 2620451289, Name: Deluxe Luxury Magic Sled
+ID: 511930668, Name: Zoom Broom 5000
+ID: 537374622, Name: Old Timey Hot Air Balloon
+ID: 66426103, Name: Gamaboi 
+ID: 48596336, Name: Subspace Debonair Disguise
+ID: 236403380, Name: Earth Summoning Horn
+ID: 257343434, Name: Crocopal
+ID: 292970740, Name: From the Vault: Dozens of Dinosaurs
+ID: 268533320, Name: Meerkat Horde
+ID: 20373160, Name: Cowbell
+ID: 38327125, Name: Wizard Orb
+ID: 73799348, Name: The Axe of Undoing: A Walmart Exclusive
+ID: 30847733, Name: Vine Staff
+ID: 44115185, Name: Judge Underwood's Gavel
+ID: 71037028, Name: Flying Magic Carpet
+ID: 123234510, Name: Instant Campfire
+ID: 28671909, Name: Yellow Card
+ID: 233519998, Name: Bunny Ninja Master Sai
+ID: 108875237, Name: Sapphire Rapid Fire Shocker
+ID: 383609201, Name: Champion Egg Beater Sword
+ID: 201756469, Name: Smashing Guitar
+ID: 120749528, Name: Chiefjustus Gavel
+ID: 169602103, Name: Seranok's Rocket Jumper
+ID: 65082246, Name: Elixir of Dreams
+ID: 361950297, Name: 8-Bit Sword
+ID: 10760425, Name: Staff of Sparks
+ID: 12187319, Name: Sword of the Highlander
+ID: 100472063, Name: Sharp Looking Hat - the Gear
+ID: 172298750, Name: Dragonheart Sword & Shield
+ID: 2463675080, Name: Bigfoot Feet Slippers
+ID: 94794833, Name: Cloak of the Undying
+ID: 57229337, Name: Instamatic Tent
+ID: 106701702, Name: Wizards of the Astral Isles: Limb Stretching Spell
+ID: 321582427, Name: Lightning Horn of the Heavens
+ID: 295461517, Name: Viridian Katana
+ID: 128160832, Name: PE Whistle
+ID: 226206253, Name: Flower Feet
+ID: 35683911, Name: Wall Walker
+ID: 96095042, Name: Sorcus' Chair
+ID: 158069071, Name: Rainbow Katana
+ID: 93136666, Name: Sword of the Seven Winters
+ID: 92142841, Name: Artemis Bow
+ID: 221181437, Name: Red Sparkle Time Claymore
+ID: 126719093, Name: Not-so-friendly Ghost
+ID: 106064469, Name: Year of the Snake Lantern
+ID: 128160929, Name: Book Worm
+ID: 172246820, Name: Paint Grenade
+ID: 218631022, Name: Laser Throwing Stars
+ID: 292969139, Name: From the Vault: Alpaca Plushie
+ID: 183355732, Name: Deluxe Vine Staff
+ID: 846792499, Name: Blue Laser Scythe
+ID: 295460073, Name: Plunger Launcher
+ID: 190094270, Name: Ridable Raptor
+ID: 150366320, Name: Spring Crossbow
+ID: 106701619, Name: Wizards of the Astral Isles: Frog Transformer
+ID: 113299590, Name: Orbital Piano Strike
+ID: 12187431, Name: Sand Tempest Scimitar
+ID: 563288952, Name: Rocket Boots
+ID: 226206639, Name: Spring-loaded Jumping Stilts
+ID: 176087597, Name: ROBLOX U Frisbee
+ID: 127506324, Name: Overseer's Axe
+ID: 79446395, Name: Toxic Goo Trap
+ID: 68539623, Name: Korblox Sword and Shield
+ID: 59848474, Name: Korblox Deathspeaker's Spell Book
+ID: 181550181, Name: Axe of the Divine Flame
+ID: 74385399, Name: Remote Explosive Detonator
+ID: 2445084910, Name: Ghostly Possessed Sword of Terror
+ID: 233660801, Name: Merely's Hover Surfboard
+ID: 35293856, Name: Atomizer
+ID: 553937189, Name: Pizza Kunai
+ID: 56561607, Name: Dracovin's Wand
+ID: 11115851, Name: Shadowy Ninja Star of the Silent House
+ID: 99119261, Name: Winter Snow Sled
+ID: 120307951, Name: Noir Periastron Psi
+ID: 116693694, Name: Amerilaser Blaster
+ID: 97311482, Name: Telewarp 
+ID: 51346336, Name: Ninja Sai
+ID: 88146486, Name: First Class Fencing Sword
+ID: 1708355542, Name: Racing Tractor
+ID: 343586214, Name: Rainbow Laser Blaster
+ID: 1033137155, Name: Deluxe Green Roped
+ID: 14131296, Name: Machete
+ID: 1117745433, Name: Giant Kaiju Arms
+ID: 2463683230, Name: Spooky Spectral Attack Lollipop
+ID: 52625733, Name: Merica Airwalker
+ID: 156467926, Name: Knights of the Splintered Skies: Sword
+ID: 186868641, Name: Snow and Arrow
+ID: 158069110, Name: Poisoned Skeleton Scythe
+ID: 298087401, Name: Fusion Gatling Blaster
+ID: 183665698, Name: Orbital Violin Strike
+ID: 45941397, Name: Fire Breathing Dragon Friend
+ID: 159199229, Name: Bruin Mount
+ID: 226205948, Name: Golden Sword of Spring Growth
+ID: 286527185, Name: Merely's Bluesteel Hoverboard
+ID: 1046322934, Name: Megagavel
+ID: 74904413, Name: The Luck O' the Irish
+ID: 188853857, Name: Arctic Fox Tail
+ID: 244082303, Name: Homemade Sword and Shield
+ID: 517827255, Name: Double-Bladed Scythe
+ID: 78005082, Name: Sci-Fi MedVac 4300
+ID: 116040789, Name: Mechatronic Spider
+ID: 728205177, Name: Spring Saber
+ID: 503957703, Name: Deluxe Slime Ray
+ID: 106064315, Name: Noxious Chocolate
+ID: 1001653705, Name: Futurecycle
+ID: 248287898, Name: Club Boates Disco Ball
+ID: 157205818, Name: Metal Cog Shuriken
+ID: 53623295, Name: Njay's Web Blaster 
+ID: 24440014, Name: Springtime Cutlass Of Infinite Virtue
+ID: 385780758, Name: Brown Bunny Accoutrement
+ID: 45094376, Name: Saxophone
+ID: 549915884, Name: Disguise-to-Go Watch
+ID: 892003497, Name: Mimic Cooler
+ID: 85145662, Name: Lunar Lander 2D Game
+ID: 188644205, Name: Rapid Fire Snowflakes Shuriken
+ID: 87361995, Name: Chaos Master's Wing Slasher
+ID: 163355404, Name: 8-Bit Phoenix
+ID: 321345839, Name: Neon Nate: The Horse Lord
+ID: 34870758, Name: Wormhole Tunneler
+ID: 738925737, Name: Horde of Attack Chirps
+ID: 1117743696, Name: Anti-Vampire Stake
+ID: 174752186, Name: The Sword of Shai
+ID: 148791414, Name: Pi RAIG Table
+ID: 90718686, Name: Conjuror's Fist 
+ID: 163348575, Name: Classic Plane
+ID: 173812248, Name: Staff of Double Disasters
+ID: 174752553, Name: Civil War Artillery
+ID: 718258183, Name: Attack Racket
+ID: 416846710, Name: Epic Golden Sword and Shield
+ID: 155696189, Name: Skipper Seal
+ID: 698862470, Name: Big Bug Net
+ID: 67494312, Name: Annoying Elf: ReeseMcBlox
+ID: 18479357, Name: Boomerang
+ID: 93536785, Name: Zombie Axe
+ID: 85879435, Name: EMP Shockmine
+ID: 49929767, Name: Knights of Redcliff: Sword and Shield
+ID: 257342981, Name: Tiny Pony Stampede
+ID: 99797403, Name: Make It Rain
+ID: 151311761, Name: jmargh's Arm Cannon
+ID: 34399318, Name: Cupcake Launcher
+ID: 527384527, Name: Mostly Ghostly Potion
+ID: 19704064, Name: Ice Staff
+ID: 90211299, Name: Tiger Skin
+ID: 498752334, Name: Paper Ninja Stars
+ID: 163353363, Name: Breakfast Gun
+ID: 292969458, Name: From the Vault: Alligator Plushie
+ID: 40504724, Name: Turkey Cannon
+ID: 88885524, Name: Stun Grenade
+ID: 13838639, Name: Atomic Disintegrator 3100
+ID: 287424705, Name: Overseer Crossbow
+ID: 36784258, Name: Zombie Friend Fred
+ID: 71597060, Name: Captain Steelshanks Recruiting Staff
+ID: 85879456, Name: Retribution Ray
+ID: 356213216, Name: Gearworks Sword
+ID: 2620470482, Name: 2019 Fireworks
+ID: 59190534, Name: Statue Staff of Stony Justice
+ID: 2103274863, Name: 8-Bit Sword and Shield
+ID: 27245855, Name: Green Gremlins Paintball Gun
+ID: 243791329, Name: Double Sword Punch
+ID: 323192649, Name: Tone's Water Polo Ball
+ID: 178077177, Name: Overseer's Steed
+ID: 754871615, Name: Dual Wield Ninja Scythes
+ID: 10831509, Name: Knight's Sword
+ID: 1088051790, Name: Skele-chucks
+ID: 569676258, Name: Candy Cane Bow
+ID: 317592936, Name: Pirate Throwing Axes
+ID: 48159648, Name: Pirate Lieutenant's Cutlass
+ID: 359179120, Name: Midnight Motorcycle
+ID: 105351545, Name: Dragon's Blaze Sword
+ID: 176087505, Name: Tiger's Wrath Sword
+ID: 461489128, Name: Wizard Flight Spell
+ID: 82357079, Name: Riot Shield and Billy Club Set
+ID: 1402292509, Name: Year of the Dog Lantern 
+ID: 54694324, Name: Saw Sword
+ID: 185422055, Name: Inglaciator -6000
+ID: 1645056094, Name: Bad Seed
+ID: 88143074, Name: Poison Picnic
+ID: 15970544, Name: Harbinger of Fimbulwinter
+ID: 183826384, Name: Sword of the Lands
+ID: 48596324, Name: Levitating Staff of the Cosmos
+ID: 13206887, Name: Spooky Guitar
+ID: 1929592959, Name: Treacherous Throwing Knives
+ID: 113299556, Name: Ultraviolet Laser Oculus
+ID: 104642700, Name: Gear suppressor 777 
+ID: 168142869, Name: Death Run 2 Shoes
+ID: 83021236, Name: Starfish Shuriken
+ID: 154727487, Name: Evil Green Science Goo
+ID: 2316760298, Name: Staff of Healing
+ID: 66896638, Name: Roblox Snowglobe 2011
+ID: 29099749, Name: Transmorph Ray Gun
+ID: 32858586, Name: Frostbrand
+ID: 101191388, Name: Dual Illumina
+ID: 65979823, Name: Magical Turkey Wand
+ID: 30847746, Name: Trident
+ID: 208659586, Name: Brilliant Throwing Knives
+ID: 189756588, Name: Christmas Tree Sword
+ID: 22960435, Name: Protest Sign: Noobs
+ID: 602146440, Name: Pizza Sword
+ID: 754869699, Name: Deluxe Pirate Hook
+ID: 77443491, Name: Sword of Darkness
+ID: 23306097, Name: Ocean Samurai
+ID: 66426498, Name: Kami Potion
+ID: 1360078533, Name: Red Hover Roped
+ID: 168142620, Name: Boxing Glove Launcher
+ID: 160198363, Name: Dynamically Lit Sword
+ID: 109583822, Name: Leprechaun Harp
+ID: 306163602, Name: Overseer Spider Mount
+ID: 1258015236, Name: 2018 Fireworks
+ID: 83704154, Name: Colossal Blade
+ID: 215392741, Name: Merely's Green Sparkle Time Hoverboard
+ID: 24659699, Name: Magic Dragon
+ID: 306971659, Name: Skeleton Slashers
+ID: 49491781, Name: Staff of Celestial Light
+ID: 55917409, Name: Knights of the Splintered Skies: Morning Star
+ID: 1492225511, Name: Throwing Bolts
+ID: 142498104, Name: Hockey Stick
+ID: 147143821, Name: Orinthian Axe
+ID: 610133129, Name: Fire Breathing Friend
+ID: 53623322, Name: Sorcus' Sword of Judgement
+ID: 1708354246, Name: Pinata Mount
+ID: 95951270, Name: Korblox Bone & Arrow
+ID: 478707595, Name: All-Seeing Golem's Hammer
+ID: 94233391, Name: Ghost Dragon
+ID: 146047220, Name: Quill of the President
+ID: 99797357, Name: Holiday Ornament Staff
+ID: 15470222, Name: Gridiron Guitar
+ID: 335085355, Name: Overseer Smashing Hammer
+ID: 563287969, Name: Deep Space Raygun
+ID: 124126528, Name: Seranok's Golden Chalice of Fame
+ID: 68848741, Name: Spectral Sword of Illusions
+ID: 420160506, Name: Deadly Laser Vision Polar Bear Mount
+ID: 82357101, Name: Portable Justice
+ID: 188643628, Name: Killer Whale Launcher
+ID: 315617026, Name: Dual Monster Axes
+ID: 206136361, Name: Prehistoric Piercing Blade
+ID: 190880295, Name: 2015 Fireworks
+ID: 287424278, Name: Orinthian Electroslasher
+ID: 46846024, Name: Katana of Destiny
+ID: 87361662, Name: Ice Breaker
+ID: 107458483, Name: Pompous, the Cloud
+ID: 62350883, Name: Sword of Ancalagon 
+ID: 47262951, Name: Bo Staff
+ID: 74904396, Name: Amazing Shrinking Elixir
+ID: 170896571, Name: Red Hyperbike
+ID: 51346471, Name: Twin Kodachi
+ID: 41457484, Name: Latke
+ID: 70476451, Name: Year of the Dragon Lantern
+ID: 346687565, Name: Blue Speedster
+ID: 51757126, Name: Korblox: Spiked Arm Bracer
+ID: 302280931, Name: Spider Morning Star
+ID: 34898883, Name: Positronic Platform Producer
+ID: 1829110586, Name: Ferocious Mr. Fox
+ID: 277954704, Name: RC Tiny Tank
+ID: 583159170, Name: Orbital Violin: Deep Freeze
+ID: 73829202, Name: RoMaze
+ID: 42847923, Name: Sword of the Winter Winds
+ID: 273970482, Name: Hot Pepper Launcher
+ID: 109583846, Name: Fairy Axe
+ID: 47597835, Name: Ninja Blink Potion
+ID: 26013203, Name: Freeze Ray
+ID: 332748371, Name: Festive Dueling Piano
+ID: 88146497, Name: Clown Bomb
+ID: 155662051, Name: Ghost Ship
+ID: 163348758, Name: Victrola
+ID: 90220371, Name: Dart Trap
+ID: 71037056, Name: Magic Lamp
+ID: 341109697, Name: DarkAge Shuriken
+ID: 277955605, Name: Throwing Knife Pen
+ID: 108149201, Name: Dark Falchion
+ID: 569678090, Name: Present Launcher
+ID: 160189720, Name: Donut Danger
+ID: 173755801, Name: Diamond Blade Sword
+ID: 55917420, Name: Knights of the Splintered Skies: Hydrian Elixir
+ID: 204095724, Name: Monster Fierce Basher
+ID: 64220952, Name: Ghostfire Throwing Daggers
+ID: 261827192, Name: Neon Rainbow Phoenix
+ID: 168141496, Name: Bladed Tutu
+ID: 139578136, Name: Sword of Swords
+ID: 95484354, Name: Misfortune Cookie
+ID: 2136389582, Name: Makeshift Bow
+ID: 2045767145, Name: Robotic Horse Mount
+ID: 257343597, Name: Neon Octopus Cannon
+ID: 65079094, Name: Retro Candy
+ID: 114687236, Name: Double Damage Frog
+ID: 152233381, Name: Sleepy Song Bird 
+ID: 1903663829, Name: Ultimate Summer Soaker
+ID: 159199218, Name: Laser-saw
+ID: 59190543, Name: Azurewrath's Return
+ID: 1536053426, Name: Hard Boiled Roadster
+ID: 1241587075, Name: Personal Plane
+ID: 57229357, Name: Paper Sword
+ID: 431038614, Name: Sword of Glowing Hope
+ID: 74972442, Name: Leprechaun Friend
+ID: 122278276, Name: iLift
+ID: 28277486, Name: Black Hole Bomb
+ID: 22787189, Name: Crimson Double Threat
+ID: 61916132, Name: ROBLOXIAN Healing Orb
+ID: 33382711, Name: Staff of Gloomy Grip
+ID: 93709266, Name: Polar Bear Cub
+ID: 52180863, Name: Flute
+ID: 2316759705, Name: Microscope Launcher
+ID: 1587175338, Name: Orinthian Crossbow
+ID: 162857422, Name: The Big One!
+ID: 477911027, Name: Rainbow Disco Hyperbike with Sidecar
+ID: 31839260, Name: 8-Bit Throwing Barrel
+ID: 255800783, Name: Golden Shuriken
+ID: 88143060, Name: Troll Pet
+ID: 228589017, Name: Boss Bunny Bow and Arrow
+ID: 181356054, Name: All Hallow's Sword
+ID: 56561579, Name: Dark Spellbook of the Forgotten
+ID: 18776718, Name: Golden Katana of the Unflinching Dawn
+ID: 102705402, Name: Super Freeze Cannon
+ID: 97161262, Name: Booster Gloves
+ID: 161220552, Name: Bundle of Fireworks
+ID: 38326803, Name: Tribal Spear
+ID: 365642085, Name: Frozen Blue Ice Crossbow
+ID: 59806354, Name: Korblox Evil Eye
+ID: 47262108, Name: Kunai
+ID: 46362414, Name: Ice Potion
+ID: 183355969, Name: Metal Fists
+ID: 73265108, Name: Telamax xTreme Dual Shoulder Cannons
+ID: 527383094, Name: Sir Scaresalot
+ID: 130113061, Name: Hyperbike
+ID: 25545089, Name: Ocherous Katana of the Setting Sun
+ID: 138761013, Name: Sparkle Time Lump of Coal
+ID: 92627975, Name: Orinthian Falcon
+ID: 65545971, Name: Mega Annoying Megaphone
+ID: 42845684, Name: Dusek Car
+ID: 96669943, Name: Spartan Sword and Shield
+ID: 60357989, Name: Silly Stilts
+ID: 292969932, Name: From the Vault: Kawaii Cat 
+ID: 88885497, Name: S-79 Speed Stunter
+ID: 60888308, Name: DarkAge Ninjas: Combat Potion
+ID: 332747874, Name: Polar Mount
+ID: 45941451, Name: Danceblaster 7000
+ID: 108875216, Name: Implosion Bomb
+ID: 273969902, Name: Artichoke Morning Star
+ID: 52180858, Name: Footbag
+ID: 183665514, Name: Axe of Blinding Justice
+ID: 68478587, Name: Tempest Blades
+ID: 45513203, Name: Star Hammer
+ID: 1149579825, Name:  Winged Guitar
+ID: 858740936, Name: Robo Arm Cannon
+ID: 483899693, Name: Viridian Hoverboard
+ID: 869123788, Name: 8-Bit Frog Friend
+ID: 286527303, Name: Midnight Motor Madness Scooter
+ID: 430065768, Name: Deluxe Dance Ray
+ID: 62803186, Name: Trollin' Pumpkin
+ID: 108875151, Name: Golden Katana of Destiny
+ID: 44084783, Name: Tomahawk
+ID: 72644603, Name: High Five
+ID: 160198008, Name: Dynamically Lit Bow and Arrow
+ID: 1402445648, Name: Giant Ice Bow
+ID: 72069827, Name: The Break Up
+ID: 317593132, Name: Big Stick
+ID: 223785350, Name: EKoSS Bow and Arrow
+ID: 122278149, Name: Ro-torcycle
+ID: 50937815, Name: Atmoblaster 777
+ID: 26417031, Name: Magical Rainbow Pony
+ID: 66416616, Name: Zeus's Lightning Bolt Staff
+ID: 264989911, Name: Independence Day Fireworks 2015
+ID: 300410436, Name: Deluxe Mechatronic Spider
+ID: 341108783, Name: DarkAge Kunai
+ID: 126719120, Name: Giant Ape Arms
+ID: 65969704, Name: Turkey's Vengeance Sword
+ID: 70032387, Name: Catapult
+ID: 26673760, Name: Mariachi Guitar
+ID: 67755215, Name: Snowman Cannon
+ID: 117498849, Name: Wasp Wings
+ID: 244081145, Name: DarkAge Naginata
+ID: 61459706, Name: Staff of Shifting Polarity
+ID: 47871635, Name: Sonic Boom Tuba
+ID: 90242059, Name: Adventure Island 
+ID: 16924676, Name: Tic Tac Toe Board
+ID: 72713855, Name: Gigantoform
+ID: 157205837, Name: Steamgun
+ID: 2804667002, Name: Year of the Boar Lantern
+ID: 91360081, Name: Psychokinesis Glove
+ID: 972189904, Name: Future Hammer
+ID: 221173959, Name: Red Panda
+ID: 262406180, Name: Magnificent Lion 
+ID: 75550928, Name: Garbage Can Shield and Wooden Sword Set
+ID: 243788599, Name: Hedgehog Horde
+ID: 75941738, Name: Monster Friend
+ID: 114690870, Name: Dual Plungers
+ID: 121385328, Name: Super Strong Man
+ID: 41855117, Name: Battle Sleighs!
+ID: 59848509, Name: Korblox Battlefield Trap
+ID: 1191149773, Name: Falcon-Pack 9000
+ID: 18210455, Name: Four-In-A-Row
+ID: 69567879, Name: Dark Alien Hatchling
+ID: 2014853976, Name: 4th of July Fireworks 2018
+ID: 2136391608, Name: The Seventh Snake Spell
+ID: 101734094, Name: Korblox Flying Oblivion Horn
+ID: 522586178, Name: Zombie Attack Bunny
+ID: 33383241, Name: Remote Mine
+ID: 243788010, Name: Bombo's Survival Raig Table
+ID: 31839203, Name: Formula R Remote Control Car
+ID: 57902997, Name: Bongos
+ID: 204485737, Name: Golden Bow and Arrow
+ID: 69947379, Name: Illuminating Spear of Revengeance
+ID: 22152171, Name: Ceramic Potion
+ID: 126704033, Name: Chupacabra
+ID: 114687251, Name: Angry Attack Squirrel
+ID: 2445089071, Name: Zombie Hunter Motorcycle
+ID: 48596305, Name: Confusoray 672
+ID: 1678349400, Name: Radical Purple Keytar
+ID: 67798397, Name: Annoying Elf: Finsurf
+ID: 880506541, Name: Attack Sloth
+ID: 82358339, Name: Police Badge
+ID: 139578207, Name: Tri-Laser 333
+ID: 91445669, Name: September Promo Placeholder
+ID: 135949859, Name: Walking with Dinosaurs Speed Egg 
+ID: 152823669, Name: Common Egg Compass 2014
+ID: 435116927, Name: Katana of the Golden Snake
+ID: 89488524, Name: Ghost Minion
+ID: 25923196, Name: Earth Day 2010 Seeds
+ID: 73089214, Name: BuildRotate
+ID: 405996670, Name: Deep Sea Explorer Octopus
+ID: 1208300973, Name: Rey’s Lightsaber
+ID: 999865627, Name: Scrooge McDuck’s Sun Chaser Plane
+ID: 61916108, Name: Orb Crystal Launcher
+ID: 398122908, Name: Robloxian Battle Shield
+ID: 278009025, Name: Interplanetary Fighter Sword
+ID: 1144845319, Name: Neon Star Fighter Blaster
+ID: 110704033, Name: Badblox Hatchling - Hatched Egg of Duty
+ID: 139586244, Name: Cloud 9 Snowboard
+ID: 64372667, Name: Skull Gladius - a CVS exclusive item
+ID: 718245473, Name: TechnoWizard Staff
+ID: 174418144, Name: CJJ’s Guide to Making Money   
+ID: 37347141, Name: Jumpin' Jack's Trick And Treat Bag
+ID: 82711866, Name: Alien on a Rampage Book
+ID: 16433862, Name: Bat Sword
+ID: 302063713, Name: Dark Skeleton Scythe
+ID: 257838919, Name: Heather’s Boots
+ID: 334177905, Name: Blobby
+ID: 42200159, Name: Sno-Fuse Bomb
+ID: 179625551, Name: Haunted Pizza
+ID: 28492363, Name: RobloTim's Chavez Burrito
+ID: 64447616, Name: Poisoned Apple
+ID: 62803165, Name: Trick or Treat Bag 2011
+ID: 834681176, Name: Red LAZER Sword
+ID: 460099901, Name: Anti-Gravity Acorn
+ID: 99174250, Name: Magic Snowman
+ID: 987005222, Name: Nerf Zombie Strike Dreadbolt
+ID: 2008153361, Name: RDC Winner 2018 - Gold
+ID: 536288166, Name: Silver Monkey
+ID: 101854660, Name: 2013 Firework
+ID: 163355764, Name: Rotten Rocky's Guitar
+ID: 65469882, Name: Fist of Schoolage - Level Up Exclusive
+ID: 19395497, Name: Fruitcake
+ID: 2830533679, Name: Neon Tiger Mount
+ID: 2568114215, Name: Blinged Gold Motorcycle
+ID: 743692189, Name: Skybound Gunblade
+ID: 13206856, Name: Jungle Guitar
+ID: 47871615, Name: Guitarmy
+ID: 67998086, Name: Rising Sun Katana
+ID: 880448457, Name: Beast Scythe
+ID: 356213494, Name: Steampunk Bow and Arrow
+ID: 37816777, Name: Ghostwalker
+ID: 94794774, Name: Crescendo, The Soul Stealer
+ID: 55027987, Name: BuildConfiguration
+ID: 18479966, Name: Chakram
+ID: 99254437, Name: Scython's ROBLOX Tablet
+ID: 315565799, Name: Electrowarrior Boomerang
+ID: 51302649, Name: Knights of the Splintered Sky: Sword and Shield
+ID: 27312415, Name: Red Foam Finger
+ID: 1748600996, Name: The Unicorn Mace
+ID: 2008153855, Name: RDC First Runner Up 2018 - Silver
+ID: 99199463, Name: Frost Blade 
+ID: 230729032, Name: Opened Chosen Basket of the Overseer
+ID: 183704866, Name: Spook Launcher
+ID: 21001552, Name: Insert Tool
+ID: 96493688, Name: Autumn Shuriken - A Target Exclusive
+ID: 638034686, Name: Snowball Gloves
+ID: 1230839551, Name: Ferdinand
+ID: 492854717, Name: Slime Potion
+ID: 37347098, Name: Witch Wand
+ID: 431045523, Name: Captain Party Pirate's Attack Parrot
+ID: 76596269, Name: Long-Range Proton Crossbow
+ID: 302030998, Name: Vampire Hunter's Crossbow
+ID: 243777016, Name: Flaming Staff of the Nefarious Red Wizard
+ID: 1886281601, Name: Incredibles 2 Badge
+ID: 143517948, Name: Mr. Peabody & Sherman's WABAC Machine
+ID: 16200204, Name: Part Dragger
+ID: 33867401, Name: The Adventures of Noob Boy: Part 1
+ID: 55028088, Name: stampbuild
+ID: 261826683, Name: Minions YTO Special
+ID: 4771622762, Name: Eggveloper Cannon 9002
+ID: 343587237, Name: Personal Fighter Jets
+ID: 88885481, Name: Military Dress Sword
+ID: 327365543, Name: Rocket Sled
+ID: 2045764727, Name: Robo Blaster
+ID: 42845896, Name: Frost Potion
+ID: 12504077, Name: Electric Blue
+ID: 215448210, Name: Mystical Griffin
+ID: 236401511, Name: Flock of Attack Seagulls
+ID: 629893424, Name: Bombastic Sword
+ID: 928805891, Name: Golden Rolling Hoverboard 
+ID: 329021959, Name: Theodore
+ID: 40493658, Name: Blueberry Pie
+ID: 218634097, Name: Hover Roped
+ID: 173781053, Name: Bacon Launcher
+ID: 2190019650, Name: Spy All Terrain Vehicle
+ID: 304720496, Name: Zombie Crossbow
+ID: 99797381, Name: Sword of Fiery Justice
+ID: 108158439, Name: Amerisword
+ID: 48159731, Name: Spring Sword of Growth
+ID: 81154592, Name: Firebrand
+ID: 65969749, Name: Deluxe Pumpkin Pie
+ID: 80576952, Name: Time Bomb
+ID: 79446473, Name: Rail Runner 5000
+ID: 335086410, Name: Dual Spec Gamma Biograft Energy Sword 
+ID: 11895536, Name: Bloxilicious Bubble Gum
+ID: 85754656, Name: Tyrannosaurus
+ID: 402304782, Name: Crimsonwrath: The Red Wrath
+ID: 120749494, Name: Bald Eagle 
+ID: 1076255449, Name: Hulk Hands
+ID: 63253706, Name: Fiery Bone Trap
+ID: 184757948, Name: Misfortune's Guardian Blade
+ID: 153939226, Name: Wild Bunny Horde Attack
+ID: 93722515, Name: Halloween Transmuter
+ID: 1466353882, Name: Lex, the Elf Warrior's Sword
+ID: 313547345, Name: Halloween Throwing Stars
+ID: 183665171, Name: Neon Throwing Stars
+ID: 230516405, Name: Rainbow Basket of Solitary Omega
+ID: 140821168, Name: Cloud 9 Snowball Launcher
+ID: 181196009, Name: Scary Gremlin
+ID: 64735604, Name: Zombie Slayer
+ID: 152173291, Name: Opened Violet  Basket of Equal Cosmic Time
+ID: 2436000243, Name: Newt’s Magical Case
+ID: 280661926, Name: Mystical Staff of Cyan Lightning Magic
+ID: 88870392, Name: Landmine
+ID: 936703828, Name: Lance’s Energy Blaster
+ID: 95484098, Name: Werewolf Claws
+ID: 521925833, Name: Trophy of Participation 2016
+ID: 319656563, Name: Dual Axe Monsters
+ID: 193772607, Name: Korblox Hunter's Bow
+ID: 535104095, Name: Neon Ninja's Katana
+ID: 639343572, Name: Plunger Bow and Arrow
+ID: 16200420, Name: Material Tool
+ID: 16200508, Name: Surface Tool
+ID: 261826406, Name: Cro-Minion Club
+ID: 78665196, Name: Katana of the Ninth Moon
+ID: 36017373, Name: BuildCloneTest
+ID: 184757813, Name: Divine Guardian's Sword
+ID: 2010630652, Name: Virtual Book - Bad Guys
+ID: 89487903, Name: Monster Axe
+ID: 96501454, Name: Lightning Bolt Sword- A Gamestop Exclusive
+ID: 2548992615, Name: Sea Dragon
+ID: 1789547756, Name: Keytar Sword
+ID: 15973059, Name: Protest Sign: We'd Rather Have User GUIs Later...
+ID: 130925426, Name: Super Tone Cape
+ID: 93136674, Name: Uppercut Sword
+ID: 1230024287, Name: Instant Snowman
+ID: 160189871, Name: Ninja Claws
+ID: 157205782, Name: Steam Engine
+ID: 46132907, Name: Checkerboard Sword
+ID: 106701564, Name: Wizards of the Astral Isles: Rat Plague Summoner
+ID: 101078524, Name: The Overseer's Bow
+ID: 89203876, Name: Celestial Staff
+ID: 103234296, Name: Redrune Raider
+ID: 342869414, Name: BLOXY 2015
+ID: 56561593, Name: Potion of the Fiery Fists
+ID: 208659734, Name: Super Spy Laser Blaster
+ID: 80576928, Name: Tee Shirt Cannon
+ID: 151292047, Name: Staff of Staff
+ID: 1760406591, Name: Glorious Sword
+ID: 1191128759, Name: Ram Mount
+ID: 98411325, Name: Spec Omega Biograft Energy Sword
+ID: 14492601, Name: 4-String Roblocaster Premiere Guitar
+ID: 84012460, Name: Fluffy Unicorn
+ID: 50938746, Name: Fermion Blade
+ID: 401277404, Name: Trophy of Participation 2016
+ID: 1469987740, Name: The 5th Annual Bloxy Award
+ID: 66416602, Name: ??
+ID: 18482562, Name: Ra'k Guitar
+ID: 116693764, Name: Historic 'Timmy' Gun
+ID: 190111117, Name: Shards in the Code: Season One - Episode 1
+ID: 2845969550, Name: Badimo Arm Cannon
+ID: 42845853, Name: Super Freeze Ray 2011
+ID: 537435862, Name: Pua 
+ID: 116040807, Name: ROBLOX World Tour Lightning Guitar
+ID: 136213778, Name: Legendary Ice Club
+ID: 149612167, Name: Lucky Laser Gun
+ID: 27854500, Name: Dance Potion
+ID: 152824068, Name: Rare Egg Compass 2014
+ID: 119917556, Name: Chalk Sword
+ID: 19703034, Name: Bag O Christmas Tree Seeds
+ID: 65969758, Name: Native Bow and Arrow
+ID: 73089204, Name: CloneTool
+ID: 2646379006, Name: Yeti Hunter Spear
