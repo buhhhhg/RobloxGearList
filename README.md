@@ -8,3 +8,4 @@
 
 6-6-2026:
 	New update! I don't think I scraped ALL the gears, but that's ok
+	Made a duplicate version: 6-6-2026-2, scraped with a browser instead
